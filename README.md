@@ -113,7 +113,6 @@ The following Python libraries are required:
 - streamlit  
 - sqlalchemy  
 - psycopg2-binary 
-```
 
 ### 4. Run the Streamlit app
 ```bash
