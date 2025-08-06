@@ -43,21 +43,6 @@ desktop.ini
 pip-wheel-metadata/
 *.whl
 
-# ========== Data Files ==========
-*.csv
-*.tsv
-*.xlsx
-*.xls
-*.json
-
-# ========== Plots / Generated Media ==========
-*.png
-*.jpg
-*.jpeg
-*.gif
-*.svg
-*.pdf
-
 # ========== Archives ==========
 *.zip
 *.tar
