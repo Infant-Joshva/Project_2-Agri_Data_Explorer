@@ -27,7 +27,7 @@ It provides statistical insights and interactive dashboards for understanding tr
 | Plotly         | Advanced visualizations            |
 | Power BI       | Business-level dashboards          |
 | SQLAlchemy     | Database connection (PostgreSQL)   |
-| Google Colab   | Notebook-based EDA (optional)      |
+| Google Colab   | Notebook-based EDA                 |
 
 ---
 
