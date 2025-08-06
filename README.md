@@ -55,15 +55,17 @@ Agri-Data-Explorer/
 
 Here is a quick glimpse of the dashboard:
 
-![Rice vs Wheat Production Over the Last 50 Years](<img width="1920" height="1563" alt="image" src="https://github.com/user-attachments/assets/35ee46eb-af50-496e-ad8e-0f7d3003e7b8" />)
-![Impact of Area Cultivated on Rice, Wheat, and Maize Production](<img width="1920" height="1469" alt="image" src="https://github.com/user-attachments/assets/9d6051ef-6fd6-451e-a43f-b346bfb44dc8" />)
+![Rice vs Wheat Production Over the Last 50 Years](https://github.com/user-attachments/assets/35ee46eb-af50-496e-ad8e-0f7d3003e7b8)
+
+![Impact of Area Cultivated on Rice, Wheat, and Maize Production](https://github.com/user-attachments/assets/9d6051ef-6fd6-451e-a43f-b346bfb44dc8)
 
 ---
 
 ## 📊 Power BI Dashboard
 
 📁 Located in the `dashboards/` folder  
-📷 ![Power BI Preview](<img width="1487" height="804" alt="image" src="https://github.com/user-attachments/assets/8e994d9c-1fac-402d-835f-33cce18a4df9" />)
+
+![Power BI Preview](https://github.com/user-attachments/assets/8e994d9c-1fac-402d-835f-33cce18a4df9)
 
 ---
 
