@@ -53,19 +53,23 @@ Agri-Data-Explorer/
 
 ### 📊 Streamlit Dashboard Preview
 
-Here is a quick glimpse of the dashboard:
+#### 📌 Rice vs Wheat Production Over the Last 50 Years
 
-Rice vs Wheat Production Over the Last 50 Years
-![Rice vs Wheat Production Over the Last 50 Years](https://github.com/user-attachments/assets/7e1d6dfe-c368-4e2a-90ed-8e8295d423a7)
+![Rice vs Wheat Production](https://github.com/user-attachments/assets/35ee46eb-af50-496e-ad8e-0f7d3003e7b8)
 
-Impact of Area Cultivated on Rice, Wheat, and Maize Production
-![Impact of Area Cultivated on Rice, Wheat, and Maize Production](https://github.com/user-attachments/assets/9d6051ef-6fd6-451e-a43f-b346bfb44dc8)
+---
+
+#### 📌 Impact of Area Cultivated on Rice, Wheat, and Maize Production
+
+![Impact of Area Cultivated](https://github.com/user-attachments/assets/9d6051ef-6fd6-451e-a43f-b346bfb44dc8)
 
 ---
 
 ## 📊 Power BI Dashboard
 
 📁 Located in the `dashboards/` folder  
+
+#### 📌 Power BI Dashboard Preview
 
 ![Power BI Preview](https://github.com/user-attachments/assets/8e994d9c-1fac-402d-835f-33cce18a4df9)
 
