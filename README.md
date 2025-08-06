@@ -38,7 +38,7 @@ Agri-Data-Explorer/
 ├── app/                # Streamlit app code
 │   └── main.py
 ├── data/               # Raw and cleaned datasets
-├── scripts/            # Data preprocessing scripts
+├── scripts/            # ETL scripts
 ├── dashboards/         # Power BI .pbix files
 ├── notebooks/          # Google Colab notebooks
 ├── images/             # Visuals for dashboard
@@ -108,6 +108,18 @@ pip install -r requirements.txt
 streamlit run app/main.py
 ```
 
+## 📝 Requirements
+
+The following Python libraries are required:
+
+- pandas  
+- scipy  
+- plotly  
+- streamlit  
+- sqlalchemy  
+- psycopg2-binary 
+```
+
 ---
 
 ## 📚 Data Sources
@@ -116,17 +128,6 @@ streamlit run app/main.py
 - Custom CSV/Excel files based on domain data
 
 ---
-
-## 📝 Requirements
-
-```
-pandas
-scipy
-plotly
-streamlit
-sqlalchemy
-psycopg2-binary
-```
 
 ---
 
@@ -140,6 +141,7 @@ See the [LICENSE](LICENSE) file for full text.
 ## 👤 Author
 
 Project developed by **[Infant Joshva A]**
+
 📧 infantjoshva46@gmail.com  
 🐙 [GitHub](https://github.com/Infant-Joshva)  
 🔗 [LinkedIn](https://www.linkedin.com/in/infant-joshva)
