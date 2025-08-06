@@ -71,6 +71,9 @@ Agri-Data-Explorer/
 #### 📌 Power BI Dashboard Preview
 
 ![Power BI Preview](https://github.com/user-attachments/assets/8e994d9c-1fac-402d-835f-33cce18a4df9)
+![Power BI Preview](https://github.com/user-attachments/assets/1a3c0e4c-9370-4963-a720-ac60245163e9)
+![Power BI Preview](https://github.com/user-attachments/assets/8b459b52-be8f-4f45-a854-308b75991f0b)
+
 
 ---
 
