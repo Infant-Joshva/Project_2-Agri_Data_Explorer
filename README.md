@@ -139,7 +139,7 @@ See the [LICENSE](LICENSE) file for full text.
 
 ## 👤 Author
 
-Project developed by **[Infant Joshva A]**
+Project developed by **Infant Joshva A**
 
 📧 infantjoshva46@gmail.com  
 🐙 [GitHub](https://github.com/Infant-Joshva)  
