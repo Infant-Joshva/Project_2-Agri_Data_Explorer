@@ -1,0 +1,7 @@
+pandas
+numpy
+scipy
+plotly
+streamlit
+sqlalchemy
+psycopg2-binary
