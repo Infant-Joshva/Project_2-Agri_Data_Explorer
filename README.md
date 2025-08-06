@@ -1,6 +1,6 @@
 # 🌾 Agri Data Explorer
 
-A Mini Project to analyze Indian agricultural datasets using **Python**, **Pandas**, **NumPy**, **SciPy**, **Plotly**, **Streamlit**, and **Power BI**.  
+A Mini Project to analyze Indian agricultural datasets using **Python**, **Pandas**, **SciPy**, **Plotly**, **Streamlit**, and **Power BI**.  
 It provides statistical insights and interactive dashboards for understanding trends in crop production, yield, and cultivated area.
 
 ---
@@ -10,7 +10,7 @@ It provides statistical insights and interactive dashboards for understanding tr
 - 🔍 Exploratory Data Analysis via Streamlit  
 - 📈 Interactive visualizations using Plotly  
 - 📊 Power BI Dashboard for state/district level insights  
-- 🧪 Statistical computations with SciPy and NumPy  
+- 🧪 Statistical computations with SciPy
 - 💾 CSV & PostgreSQL support via SQLAlchemy  
 - ☁️ Google Colab notebooks for EDA and preprocessing
 
@@ -22,7 +22,6 @@ It provides statistical insights and interactive dashboards for understanding tr
 |----------------|-------------------------------------|
 | Python         | Core scripting                     |
 | Pandas         | Data manipulation                  |
-| NumPy          | Numerical computations             |
 | SciPy          | Statistical analysis               |
 | Streamlit      | Interactive web app                |
 | Plotly         | Advanced visualizations            |
@@ -122,7 +121,6 @@ streamlit run app/main.py
 
 ```
 pandas
-numpy
 scipy
 plotly
 streamlit
