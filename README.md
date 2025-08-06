@@ -42,7 +42,7 @@ Agri-Data-Explorer/
 ├── scripts/            # Data preprocessing scripts
 ├── dashboards/         # Power BI .pbix files
 ├── notebooks/          # Google Colab notebooks
-├── images/             # Visuals for README or dashboard
+├── images/             # Visuals for dashboard
 ├── requirements.txt    # Python dependencies
 ├── README.md           # Project documentation
 ├── LICENSE             # Open-source license
@@ -54,8 +54,7 @@ Agri-Data-Explorer/
 ## 📊 Power BI Dashboard
 
 📁 Located in the `dashboards/` folder  
-📷 *Insert your Power BI screenshot:*  
-![Power BI Preview](images/powerbi-preview.png)
+📷 ![Power BI Preview](images/powerbi-preview.png)
 
 ---
 
@@ -97,15 +96,13 @@ streamlit run app/main.py
 
 ## 📚 Data Sources
 
-- Government of India agricultural datasets  
-- Open data portals (e.g. data.gov.in, UCI Machine Learning Repository)  
+- India agricultural datasets 
 - Custom CSV/Excel files based on domain data
 
 ---
 
 ## 📝 Requirements
 
-Include the following in your `requirements.txt`:
 ```
 pandas
 numpy
@@ -127,7 +124,11 @@ See the [LICENSE](LICENSE) file for full text.
 
 ## 👤 Author
 
-Project developed by **[Your Name]**  
-📧 your.email@example.com  
-🔗 GitHub: [@your-username](https://github.com/your-username)  
-🔗 LinkedIn: [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
+Project developed by **[Infant Joshva A]**
+📧 infantjoshva46@gmail.com  
+🐙 [GitHub](https://github.com/Infant-Joshva)  
+🔗 [LinkedIn](https://www.linkedin.com/in/infant-joshva)
+
+## ⭐ Give a Star!
+
+If you liked this project, please give it a ⭐ on GitHub!
