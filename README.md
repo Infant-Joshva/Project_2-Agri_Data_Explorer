@@ -102,7 +102,7 @@ source venv/bin/activate  # On Windows: venv\Scripts\activate
 ```bash
 pip install -r requirements.txt
 ```
-
+---
 ## 📝 Requirements
 
 The following Python libraries are required:
@@ -114,7 +114,7 @@ The following Python libraries are required:
 - sqlalchemy  
 - psycopg2-binary 
 ```
-
+---
 ### 4. Run the Streamlit app
 ```bash
 streamlit run app/main.py
