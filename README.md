@@ -79,6 +79,13 @@ Agri-Data-Explorer/
 
 ---
 
+<video width="600" controls>
+  <source src="https://github.com/Infant-Joshva/Mini_project_2-Agri-Data-Explorer/blob/main/images%2Cvideos/Agri%20data%20explorer%20video.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+---
+
 ## 🧪 Sample Insights
 
 - 📈 Year‑wise trend of rice production across top 3 states  
