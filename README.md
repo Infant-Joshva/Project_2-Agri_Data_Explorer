@@ -78,14 +78,6 @@ Agri-Data-Explorer/
 
 ---
 
-## 🎥 Project Demo
-
-[![Watch the video](https://github.com/user-attachments/assets/c6e436a0-497f-42c7-9d0c-8a1efc5e66cb)](https://raw.githubusercontent.com/Infant-Joshva/Mini_project_2-Agri-Data-Explorer/main/images%2Cvideos/Agri%20data%20explorer%20video.mp4)
-
-👉 Click the image to view the demo video
-
----
-
 ## 🧪 Sample Insights
 
 - 📈 Year‑wise trend of rice production across top 3 states  
