@@ -76,13 +76,13 @@ Agri-Data-Explorer/
 --
 ![Power BI Preview](https://github.com/user-attachments/assets/8b459b52-be8f-4f45-a854-308b75991f0b)
 
-
 ---
 
-<video width="600" controls>
-  <source src="https://github.com/Infant-Joshva/Mini_project_2-Agri-Data-Explorer/raw/main/images%2Cvideos/Agri%20data%20explorer%20video.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+## 🎥 Project Demo
+
+[![Watch the video](https://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://github.com/Infant-Joshva/Mini_project_2-Agri-Data-Explorer/raw/main/images%2Cvideos/Agri%20data%20explorer%20video.mp4)
+
+👉 Click the image above to watch the demo video.
 
 ---
 
