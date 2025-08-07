@@ -80,9 +80,10 @@ Agri-Data-Explorer/
 
 ## 🎥 Project Demo
 
-[![Watch the video](https://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://github.com/Infant-Joshva/Mini_project_2-Agri-Data-Explorer/raw/main/images%2Cvideos/Agri%20data%20explorer%20video.mp4)
+[![Watch the demo video](https://raw.githubusercontent.com/Infant-Joshva/Mini_project_2-Agri-Data-Explorer/main/images%2Cvideos/thumbnail.png)](https://github.com/Infant-Joshva/Mini_project_2-Agri-Data-Explorer/raw/main/images%2Cvideos/Agri%20data%20explorer%20video.mp4)
 
-👉 Click the image above to watch the demo video.
+👉 Click the image to view the demo video
+
 
 ---
 
