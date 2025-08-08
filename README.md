@@ -41,7 +41,7 @@ Agri-Data-Explorer/
 ├── scripts/            # ETL scripts
 ├── dashboards/         # Power BI .pbix files
 ├── notebooks/          # Google Colab notebooks
-├── images,videos/      # Visuals for dashboard & # Project demonstration video
+├── images,videos/      # Visuals for dashboard & Project demonstration video
 ├── requirements.txt    # Python dependencies
 ├── README.md           # Project documentation
 ├── LICENSE             # Open-source license
