@@ -1,1 +1,3 @@
 testing from local - folder renamed
+
+working fine from git 
