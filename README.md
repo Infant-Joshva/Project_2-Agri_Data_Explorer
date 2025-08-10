@@ -25,7 +25,7 @@ It provides statistical insights and interactive dashboards for understanding tr
 ![Plotly](https://img.shields.io/badge/Plotly-Advanced%20Visualizations-gray?logo=plotly&logoColor=white&labelColor=3f4f75)
 ![Power%20BI](https://img.shields.io/badge/Power%20BI-Business%20Dashboards-gray?logo=power-bi&logoColor=white&labelColor=F2C811)
 ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-PostgreSQL%20Connection-gray?logo=python&logoColor=white&labelColor=d71f00)
-![Google%20Colab](https://img.shields.io/badge/Google%20Colab-Notebook%20EDA-gray?logo=google-colab&logoColor=white&labelColor=f9ab00)
+![Google%20Colab](https://img.shields.io/badge/Google%20Colab-EDA-gray?logo=google-colab&logoColor=white&labelColor=f9ab00)
 
 ---
 
