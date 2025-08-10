@@ -18,16 +18,14 @@ It provides statistical insights and interactive dashboards for understanding tr
 
 ## 🛠️ Tech Stack
 
-| Tool/Library   | Purpose                            |
-|----------------|-------------------------------------|
-| Python         | Core scripting                     |
-| Pandas         | Data manipulation                  |
-| SciPy          | Statistical analysis               |
-| Streamlit      | Interactive web app                |
-| Plotly         | Advanced visualizations            |
-| Power BI       | Business-level dashboards          |
-| SQLAlchemy     | Database connection (PostgreSQL)   |
-| Google Colab   | Notebook-based EDA                 |
+![Python](https://img.shields.io/badge/Python-3.8%2B-gray?logo=python&logoColor=white&labelColor=3776AB)
+![Pandas](https://img.shields.io/badge/Pandas-Data%20Manipulation-gray?logo=pandas&logoColor=white&labelColor=150458)
+![SciPy](https://img.shields.io/badge/SciPy-Statistical%20Analysis-gray?logo=scipy&logoColor=white&labelColor=8C5E9C)
+![Streamlit](https://img.shields.io/badge/Streamlit-Interactive%20Web%20App-gray?logo=streamlit&logoColor=white&labelColor=FF4B4B)
+![Plotly](https://img.shields.io/badge/Plotly-Advanced%20Visualizations-gray?logo=plotly&logoColor=white&labelColor=3f4f75)
+![Power%20BI](https://img.shields.io/badge/Power%20BI-Business%20Dashboards-gray?logo=power-bi&logoColor=white&labelColor=F2C811)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-PostgreSQL%20Connection-gray?logo=python&logoColor=white&labelColor=d71f00)
+![Google%20Colab](https://img.shields.io/badge/Google%20Colab-Notebook%20EDA-gray?logo=google-colab&logoColor=white&labelColor=f9ab00)
 
 ---
 
