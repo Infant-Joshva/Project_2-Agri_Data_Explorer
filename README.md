@@ -52,13 +52,13 @@ Agri-Data-Explorer/
 
 #### 📌 Rice vs Wheat Production Over the Last 50 Years
 
-![Rice vs Wheat Production](https://github.com/user-attachments/assets/1ff28d88-7cfc-4105-aef6-3dc78ecd3c5a)
+![Rice vs Wheat Production](https://github.com/user-attachments/assets/e8184377-0eac-4e07-8bbd-e5a45b6af532)
 
 ---
 
 #### 📌 Impact of Area Cultivated on Rice, Wheat, and Maize Production
 
-![Impact of Area Cultivated](https://github.com/user-attachments/assets/08ef3d7a-1845-4aa3-b101-d8f3be5a045c)
+![Impact of Area Cultivated](https://github.com/user-attachments/assets/451b7a3e-17ec-4157-9e3a-d866940f8c6a)
 
 ---
 
