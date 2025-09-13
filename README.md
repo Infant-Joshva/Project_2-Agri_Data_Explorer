@@ -32,7 +32,7 @@ It provides statistical insights and interactive dashboards for understanding tr
 ## 📁 Project Structure
 
 ```
-Agri-Data-Explorer/
+Project_2-Agri_Data_Explorer/
 ├── app/                # Streamlit app code
 │   └── main.py
 ├── data/               # Raw and cleaned datasets
@@ -91,7 +91,7 @@ Agri-Data-Explorer/
 ### 1. Clone the repository
 ```bash
 git clone https://github.com/Infant-Joshva/Project_2-Agri_Data_Explorer.git
-cd Agri-Data-Explorer
+cd Project_2-Agri_Data_Explorer
 ```
 
 ### 2. Create virtual environment
