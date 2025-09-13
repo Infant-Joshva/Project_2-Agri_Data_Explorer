@@ -90,7 +90,7 @@ Agri-Data-Explorer/
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/your-username/Agri-Data-Explorer.git
+git clone https://github.com/Infant-Joshva/Project_2-Agri_Data_Explorer.git
 cd Agri-Data-Explorer
 ```
 
