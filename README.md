@@ -147,7 +147,7 @@ See the [LICENSE](LICENSE) file for full text.
 
 Project developed by **Infant Joshva A**
 
-📧 infantjoshva46@gmail.com  
+📧 infantjoshva2024@gmail.com  
 🐙 [GitHub](https://github.com/Infant-Joshva)  
 🔗 [LinkedIn](https://www.linkedin.com/in/infant-joshva)
 
